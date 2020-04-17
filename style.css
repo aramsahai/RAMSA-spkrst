@@ -1,0 +1,32 @@
+a:link, a:visited { color: #ffffff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+      
+html, body {
+  font-family: "minion-pro",serif;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: .02em;
+  
+  width: 100%;
+  height: 100%;
+  margin: 0;
+    }
+
+
+pre {
+font-family: "Code", monospace;
+display: block;
+padding: 40px 20px;
+color: black;
+line-height: 1.4em;
+font-size: 0.95em;
+overflow-x: auto;
+white-space: pre-wrap;
+background-color: #a9bcbc;
+border-radius: 8px;
+  }
+
+#wrapper {
+  padding: 0 20px;
+}
